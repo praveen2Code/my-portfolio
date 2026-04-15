@@ -1,0 +1,71 @@
+.hero {
+  text-align: center;
+}
+
+.hero-title {
+  font-size: 52px;
+  margin-bottom: 10px;
+}
+
+.hero-subtitle {
+  font-size: 22px;
+  color: #cbd5f5;
+  margin-bottom: 15px;
+}
+
+.hero-desc {
+  max-width: 650px;
+  margin: auto;
+  color: #94a3b8;
+  line-height: 1.6;
+}
+
+.hero-highlight {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #38bdf8;
+}
+
+/* METRICS */
+.hero-metrics {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 40px;
+}
+
+.metric h3 {
+  font-size: 28px;
+  color: #38bdf8;
+}
+
+.metric p {
+  font-size: 14px;
+  color: #94a3b8;
+}
+
+/* BUTTONS */
+.hero-actions {
+  margin-top: 30px;
+}
+
+.primary-btn {
+  background: linear-gradient(90deg, #38bdf8, #818cf8);
+  color: black;
+  font-weight: 600;
+  margin-right: 10px;
+}
+
+.secondary-btn {
+  background: transparent;
+  border: 1px solid #38bdf8;
+  color: #38bdf8;
+}
+
+/* GLOBAL CARD */
+.hero-global {
+  margin-top: 50px;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
